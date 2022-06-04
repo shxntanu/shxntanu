@@ -10,4 +10,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm really into bot making. I've made a working bot on Telegram and hope to add more features to it during my spare time.
 > “I think the best discipline is pain.” ~ Levi Ackerman 
-<img src="https://i.pinimg.com/736x/67/d6/af/67d6af844900ef007771d41daf9df35c.jpg" width="100" height="100">
+<img src="https://i.pinimg.com/736x/67/d6/af/67d6af844900ef007771d41daf9df35c.jpg" width="200" height="200">
+<hr>
+<h2>Connect with me on:</h2>
+<a href="https://instagram.com/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50"></a>
