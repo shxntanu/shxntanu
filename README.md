@@ -1,4 +1,4 @@
-### Hi there 👋
+<center>### Hi there 👋
 - 👋 I'm Shantanu.
 - 🎓 I'm a first year Computer Engineering student at PICT Pune.
 - 📚 I've learnt basic HTML, QBasic, Java, C++, Python and CSS.
