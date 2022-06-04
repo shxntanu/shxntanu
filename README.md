@@ -1,4 +1,4 @@
-<center><h1>Hi there 👋</h1></center>
+### Hi There👋
 - 👋 I'm Shantanu.
 - 🎓 I'm a first year Computer Engineering student at PICT Pune.
 - 📚 I've learnt basic HTML, QBasic, Java, C++, Python and CSS.
