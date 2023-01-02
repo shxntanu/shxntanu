@@ -1,10 +1,10 @@
 ### Hi There👋
 - 👋 I'm Shantanu.
 - 🎓 I'm a second year Computer Engineering student at PICT Pune.
-- 📚 I've learnt basic HTML, QBasic, Java, C++, Python and CSS.
-- 🔭 I’m currently working on Python, HTML and CSS.
-- 🌱 I’m currently learning Web Development
-- 🤔 I’m looking for help with HTML and CSS 😁
+- 📚 I've learnt basic HTML, CSS, QBasic, Java, C++, Python and Flutter & Dart.
+- 🔭 I’m currently working on Flutter & Dart and TensorFlow.
+- 🌱 I’m currently learning App Development and Machine Learning.
+- 🤔 I’m looking for help with Dart and TensorFlow. 😁
 - 💬 Ask me about: a little bit of Python, Java, HTML and C++
 - 📫 How to reach me: shantanuisfree@gmail.com
 - ⚡ Fun fact: I'm really into bot making. I've made a working bot on Telegram and hope to add more features to it during my spare time.
