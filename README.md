@@ -5,9 +5,8 @@
 - 🔭 I’m currently working on Flutter & Dart and TensorFlow.
 - 🌱 I’m currently learning App Development and Machine Learning.
 - 🤔 I’m looking for help with Dart and TensorFlow. 😁
-- 💬 Ask me about: a little bit of Python, Java, HTML and C++
+- 💬 Ask me about: Python, Java, Dart and C++
 - 📫 How to reach me: shantanuisfree@gmail.com
-- ⚡ Fun fact: I'm really into bot making. I've made a working bot on Telegram and hope to add more features to it during my spare time.
 <hr>
 <h2>Connect with me on:</h2>
 <a href="https://instagram.com/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50"></a>
