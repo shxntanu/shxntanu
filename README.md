@@ -1,4 +1,8 @@
-### Hi There👋
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shantanu</h1>
+<h4 align="center">Am amateur app developer, and also an engineering student at Pune Institute of Computer Technology</h4>
+</div>
+
 - 👋 I'm Shantanu.
 - 🎓 I'm a second year Computer Engineering student at PICT Pune.
 - 📚 I've learnt basic HTML, CSS, QBasic, Java, C++, Python and Flutter & Dart.
