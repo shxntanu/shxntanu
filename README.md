@@ -16,11 +16,8 @@
 <a href="https://instagram.com/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50"></a>
 <a href="https://twitter.com/shxntanu"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" width="50" height="50"></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/shxntanu/shxntanu/output/github-contribution-grid-snake.svg">
+<!-- connected to the YAML file on github workflows -->
 
 ### Spotify
 
