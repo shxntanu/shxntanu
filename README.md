@@ -3,9 +3,6 @@
 <h4 align="center">Am amateur app developer, and also an engineering student at Pune Institute of Computer Technology</h4>
 </div>
 
-- 👋 I'm Shantanu.
-- 🎓 I'm a second year Computer Engineering student at PICT Pune.
-- 📚 I've learnt basic HTML, CSS, QBasic, Java, C++, Python and Flutter & Dart.
 - 🔭 I’m currently working on Flutter & Dart and TensorFlow.
 - 🌱 I’m currently learning App Development and Machine Learning.
 - 🤔 I’m looking for help with Dart and TensorFlow. 😁
