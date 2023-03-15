@@ -17,6 +17,7 @@
 <h2>Connect with me on:</h2>
 <a href="https://instagram.com/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50"></a>
 <a href="https://twitter.com/shxntanu"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" width="50" height="50"></a>
+<a href="https://linkedin.com/in/shxntanu"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50"></a>
 
  ![Snake animation](https://github.com/shxntanu/shxntanu/blob/output/github-contribution-grid-snake.svg)
 
