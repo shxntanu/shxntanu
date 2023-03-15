@@ -3,9 +3,10 @@
 <h4 align="center">App Developer, Machine Learning enthusisast, occasional graphic designer and also an engineering student at PICT Pune.</h4>
 </div>
 
-- 🔭 I’m currently working on Flutter & Dart and TensorFlow.
-- 🌱 I’m currently learning App Development and Machine Learning.
+- 🔭 I’m currently working on Flutter & Dart and TensorFlow
+- 🌱 I’m currently learning App Development and Machine Learning
 - 🤔 I’m looking for help with Dart and TensorFlow. 😁
+- 💯 I'm proficient in Python, C++ and Java
 - 💬 Ask me about: Python, Java, Dart and C++
 - 📫 How to reach me: shantanuisfree@gmail.com
 <hr>
