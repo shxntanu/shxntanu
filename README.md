@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/IMG_3665%202.jpg" height = 100px>
+<img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/IMG_3665%202.jpg">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shantanu</h1>
 <h4 align="center">App Developer, Machine Learning enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h4>
 </div>
