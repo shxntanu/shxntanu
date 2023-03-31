@@ -9,8 +9,8 @@
 - I'm proficient in Python, C++ and Java.
 - Ask me about: Python, Java, Dart and C++.
 - Knows Hindi, English and Marathi.
-- Fun Fact: I'm a huge computer gaming enthusiast. I've got over 600 hours in games like Apex Legends, VALORANT, Minecraft each, and have over 1000 hours in Fortnite.
-- How to reach me: shantanuwable2003@gmail.com
+- **Fun Fact**: I'm a huge computer gaming enthusiast. I've got over 600 hours in games like Apex Legends, VALORANT, Minecraft each, and have over 1000 hours in Fortnite.
+- How to reach me: **shantanuwable2003@gmail.com**
 <hr>
 
 # Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 20px>
