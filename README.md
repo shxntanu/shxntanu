@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shantanu</h1>
-<h4 align="center">App Developer, Machine Learning enthusisast, occasional graphic designer and also an engineering student at PICT Pune.</h4>
+<h4 align="center">App Developer, Machine Learning enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h4>
 </div>
 
 - 🔭 I’m currently working on Flutter & Dart and TensorFlow
