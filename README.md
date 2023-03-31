@@ -31,8 +31,9 @@
 <a href="https://instagram.com/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50"></a>
 <a href="https://twitter.com/shxntanu"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" width="50" height="50"></a>
 <a href="https://linkedin.com/in/shxntanu"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50"></a>
-<a href="https://www.codechef.com/users/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/2880px-Codechef%28new%29_logo.svg.png" height=50></a>
 <a href="https://open.spotify.com/user/vfslkmx2w9y4qb36bdsi10rx9?si=f4203c314add4f8a"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" height=50></a>
+<a href="https://www.codechef.com/users/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/2880px-Codechef%28new%29_logo.svg.png" height=50></a>
+
 
 
 <div align="center">
