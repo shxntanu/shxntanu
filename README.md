@@ -3,12 +3,12 @@
 <h4 align="center">App Developer, Machine Learning enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h4>
 </div>
 
-- 🔭 I’m currently working on Flutter & Dart and TensorFlow
-- 🌱 I’m currently learning App Development and Machine Learning
-- 🤔 I’m looking for help with Dart 😁
-- 💯 I'm proficient in Python, C++ and Java
-- 💬 Ask me about: Python, Java, Dart and C++
-- 📫 How to reach me: shantanuwable2003@gmail.com
+- I’m currently working on Flutter & Dart and TensorFlow
+- I’m currently learning App Development and Machine Learning
+- I’m looking for help with Dart
+- I'm proficient in Python, C++ and Java
+- Ask me about: Python, Java, Dart and C++
+- How to reach me: shantanuwable2003@gmail.com
 <hr>
 
 # Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 20px>
@@ -25,6 +25,8 @@
 
  ![Snake animation](https://github.com/shxntanu/shxntanu/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
 ## Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&redirect=true)
+</div>
