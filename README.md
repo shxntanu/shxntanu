@@ -4,11 +4,12 @@
 <h4 align="center">App Developer, Machine Learning enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h4>
 </div>
 
-- I’m currently working on Flutter & Dart and TensorFlow
-- I’m currently learning App Development and Machine Learning
-- I’m looking for help with Dart
-- I'm proficient in Python, C++ and Java
-- Ask me about: Python, Java, Dart and C++
+- I’m currently learning App Development using Flutter and interested in native iOS development using Swift.
+- I’m looking for help with Dart and Firebase.
+- I'm proficient in Python, C++ and Java.
+- Ask me about: Python, Java, Dart and C++.
+- Knows Hindi, English and Marathi.
+- Fun Fact: I'm a huge computer gaming enthusiast. I've got over 600 hours in games like Apex Legends, VALORANT, Minecraft each, and have over 1000 hours in Fortnite.
 - How to reach me: shantanuwable2003@gmail.com
 <hr>
 
@@ -23,6 +24,8 @@
 <a href="https://instagram.com/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50"></a>
 <a href="https://twitter.com/shxntanu"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" width="50" height="50"></a>
 <a href="https://linkedin.com/in/shxntanu"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50"></a>
+<a href="https://www.codechef.com/users/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/2880px-Codechef%28new%29_logo.svg.png" width=50 height=50></a>
+
 
 <div align="center">
  
