@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/shxntanu"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50"></a>
 
 <div align="center">
+ 
  ![Snake animation](https://github.com/shxntanu/shxntanu/blob/output/github-contribution-grid-snake.svg)
 
 ## Spotify
