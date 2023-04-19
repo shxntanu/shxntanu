@@ -15,11 +15,11 @@
 
 # Projects
 
+- <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing without any sign-ups required)
 - <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app)
 - <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python)
 - <a href="https://github.com/shxntanu/Gharam_Masala">Gharam Masala</a> (Website for ordering home cooked food. Made the front end as a part of Project Based Learning)
 - <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi based Vehicle and Crash Detection system, powered by Flutter, Ongoing as a part of Project based learning)
-- <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing without any sign-ups required. Under development)
 
 # Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 20px>
 <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt = "Python" height = 40px> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg" alt = "C" height = 40px> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-plusplus.svg" alt = "C++" height = 40px> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" alt = "Java" height = 40px> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" alt = "Dart" height = 40px> 
