@@ -10,7 +10,7 @@
 - Ask me about: Python, Java, Dart and C++.
 - Knows Hindi, English and Marathi.
 - I'm also proficient at graphic design using Canva.
-- **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go!
+- **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go! (I've also clicked the photo that's on my banner :D)
 - How to reach me: **shantanuwable2003@gmail.com**
 
 # Projects
