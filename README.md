@@ -4,7 +4,7 @@
 <h3 align="center">App Development enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h3>
 </div>
 
-- I’m currently learning App Development using Flutter and interested in native iOS development using Swift.
+- I’m currently learning App Development using Flutter and interested in native iOS and Android development.
 - I’m looking for help with Dart and Firebase.
 - I'm proficient in Python, C++ and Java.
 - Ask me about: Python, Java, Dart and C++.
