@@ -2,7 +2,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" height=20px> I'm Shantanu.
+    Hello there! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" height=20px width=20px> I'm Shantanu.
     <br>Occasional graphic designer, App Development enthusiast and also a Computer Engineering student from PICT Pune :D<br>
 
 </samp>
