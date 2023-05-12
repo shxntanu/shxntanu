@@ -1,14 +1,8 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/IMG_3665%202.jpg">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shantanu</h1>
-<h3 align="center">App Development enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h3>
-</div>
-
 <p align="center">
   <br>
   <samp>
-    Hello there! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    Hello there! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif" height=10px> I'm Shantanu.
+    <br>Occasional graphic designer, App Development enthusiast and also a Computer Engineering student from PICT Pune :D<br>
 
 </samp>
 
