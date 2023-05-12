@@ -4,6 +4,18 @@
 <h3 align="center">App Development enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h3>
 </div>
 
+<p align="center">
+  <br>
+  <samp>
+    Hello there! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
 - I’m currently learning App Development using Flutter and interested in native iOS and Android development.
 - I’m looking for help with Dart and Firebase.
 - I'm proficient in Python, C++ and Java.
