@@ -3,12 +3,12 @@
   <br>
     Hello there! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Shantanu.
     <br>Occasional graphic designer, App Development enthusiast and also a Computer Engineering student from PICT Pune :D<br>
-  
   <hr>
-
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="60"/>
-
 </p>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="60"/>
+</div>
 
 - I’m currently learning App Development using Flutter and interested in native iOS and Android development.
 - I’m looking for help with Dart and Firebase.
