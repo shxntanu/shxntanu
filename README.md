@@ -1,11 +1,7 @@
+<div align="center">
 <img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/IMG_3665%202.jpg">
-<div align="center">
-    Hello there! <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> I'm Shantanu.
-    <br>Occasional graphic designer, App Development enthusiast and also a Computer Engineering student from PICT Pune :D<br>
-</div>
-<hr>
-<div align="center">
-   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="60"/>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shantanu</h1>
+<h3 align="center">App Development enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h3>
 </div>
 
 - I’m currently learning App Development using Flutter and interested in native iOS and Android development.
