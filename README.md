@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/IMG_3665%202.jpg">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shantanu <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="35"/> </h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shantanu </h1>
 <h3 align="center">App & Web enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h3>
 </div>
 
@@ -13,7 +13,7 @@
 - **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go! (I've also clicked the photo that's on my banner :D)
 - How to reach me: **shantanuwable2003@gmail.com**
 
-# Projects
+# Projects <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="32"/>
 
 - <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing without any sign-ups required)
 - <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app)
