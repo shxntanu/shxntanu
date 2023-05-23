@@ -6,7 +6,7 @@
 
 - I’m currently learning App Development using Flutter.
 - My interests lie in native iOS and Android development, along with Full Stack Web Development.
-- I've learnt Front-End Web Development using HTML, CSS and Bootstrap.
+- Started with Front-End Web Development using HTML, CSS and Bootstrap and moved onto Application Development using Flutter.
 - I’m looking for help with Javascript.
 - I'm proficient in Python, C++ and Java.
 - Ask me about: Python, Java, Dart and C++.
