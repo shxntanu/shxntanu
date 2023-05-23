@@ -4,14 +4,14 @@
 <h3 align="center">App & Web enthusiast, occasional graphic designer and also an engineering student at PICT Pune.</h3>
 </div>
 
-- I’m currently learning App Development using Flutter.
+- I’m currently learning **App Development using Flutter**.
 - My interests lie in native iOS and Android development, along with Full Stack Web Development.
 - Started with Front-End Web Development using HTML, CSS and Bootstrap and moved onto Application Development using Flutter.
 - I’m looking for help with Javascript.
-- I'm proficient in Python, C++ and Java.
+- I'm proficient in **Python, C++ and Java**.
 - Ask me about: Python, Java, Dart and C++.
 - Knows Hindi, English and Marathi.
-- I'm also proficient at graphic design using Canva, and can work my way around Illustrator and Photoshop.
+- I'm also proficient at **graphic design using Canva**, and can work my way around Illustrator and Photoshop.
 - **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go! (I've also clicked the photo that's on my banner :D)
 - How to reach me: **shantanuwable2003@gmail.com**
 
