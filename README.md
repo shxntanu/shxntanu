@@ -17,9 +17,9 @@
 
 # Projects <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="32"/>
 
-- <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing web-app without any sign-ups required. Made in Flutter!) &nbsp;
-- <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app)
-- <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python)
+- <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing web-app without any sign-ups required. Made in Flutter!) &ensp;
+- <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app) &ensp;
+- <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python) &ensp;
 - <a href="https://github.com/shxntanu/Gharam_Masala">Gharam Masala</a> (Website for ordering home cooked food. Made the front end as a part of Project Based Learning)
 - <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi based Vehicle and Crash Detection system, powered by Flutter, Ongoing as a part of Project based learning)
 
