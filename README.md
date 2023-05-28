@@ -30,13 +30,20 @@
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" alt = "Java" height = 40px>](https://www.java.com/en/)
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" alt = "Dart" height = 40px>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjzyvv1-5f_AhXGa2wGHV83DJYQFnoECAwQAQ&url=https%3A%2F%2Fdart.dev%2F&usg=AOvVaw3K8WED8OMZZGHKwzD9IJNB)
 
-<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>   <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" alt = "HTML" height = 40px>   <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" alt = "CSS" height = 40px> 
-<img src = "https://img.icons8.com/?size=512&id=20906&format=png" alt = "Git" height = 40px> <img src = "https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" alt = "GitHub" height = 40px> <img src = "https://img.icons8.com/?size=512&id=62452&format=png" alt = "Firebase" height = 40px>
+[<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwid4cyN_Jf_AhXrbmwGHYpyAeUQFnoECAoQAQ&url=https%3A%2F%2Fflutter.dev%2F&usg=AOvVaw2fvkNby53pMEHpkl0gKIVl)
+[<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" alt = "HTML" height = 40px>](https://en.wikipedia.org/wiki/HTML)
+[<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" alt = "CSS" height = 40px> ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjEwPak_Jf_AhWscmwGHcOnCJ0QFnoECAcQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&usg=AOvVaw2AefRLcVpaGBVUS8Z-YOq4)
+[<img src = "https://img.icons8.com/?size=512&id=20906&format=png" alt = "Git" height = 40px>](https://git-scm.com)
+[<img src = "https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" alt = "GitHub" height = 40px>](https://github.com)
+[<img src = "https://img.icons8.com/?size=512&id=62452&format=png" alt = "Firebase" height = 40px>](https://firebase.google.com)
 
-<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-illustrator.svg" alt = "Adobe Illustrator" height = 40px> <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="Canva" height=40px> <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" alt="Final Cut Pro" height=40px>
-<img src = "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt = "Fusion360" height = 40px> <img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/AutCAD%20Logo.png" alt ="AutoCAD" height=40x>
+[<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-illustrator.svg" alt = "Adobe Illustrator" height = 40px>](https://www.adobe.com/in/products/illustrator.html)
+[<img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="Canva" height=40px>](https://www.canva.com)
+[<img src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" alt="Final Cut Pro" height=40px>](https://www.apple.com/in/final-cut-pro/)
+[<img src = "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt = "Fusion360" height = 40px>](https://www.autodesk.in/products/fusion-360/overview?term=1-YEAR&tab=subscription) 
+[<img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/AutCAD%20Logo.png" alt ="AutoCAD" height=40x>](https://www.autodesk.com/products/autocad-lt/overview)
 
-<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/2880px-SolidWorks_Logo.svg.png" alt = "SolidWorks" height = 40px>
+[<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/2880px-SolidWorks_Logo.svg.png" alt = "SolidWorks" height = 40px>](https://www.solidworks.com)
 
 # Let's connect:
 <a href="https://instagram.com/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50"></a>
