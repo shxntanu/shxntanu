@@ -17,9 +17,9 @@
 
 # Projects <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="32"/>
 
-- <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing web-app without any sign-ups required. Made in Flutter!) &ensp;
-- <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app) &ensp;
-- <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python) &ensp;
+- <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing web-app without any sign-ups required. Made in Flutter!)
+- <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app)
+- <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python) 
 - <a href="https://github.com/shxntanu/Gharam_Masala">Gharam Masala</a> (Website for ordering home cooked food. Made the front end as a part of Project Based Learning)
 - <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi based Vehicle and Crash Detection system, powered by Flutter, Ongoing as a part of Project based learning)
 
@@ -32,7 +32,7 @@
 
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwid4cyN_Jf_AhXrbmwGHYpyAeUQFnoECAoQAQ&url=https%3A%2F%2Fflutter.dev%2F&usg=AOvVaw2fvkNby53pMEHpkl0gKIVl)
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" alt = "HTML" height = 40px>](https://en.wikipedia.org/wiki/HTML)
-[<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" alt = "CSS" height = 40px> ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjEwPak_Jf_AhWscmwGHcOnCJ0QFnoECAcQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&usg=AOvVaw2AefRLcVpaGBVUS8Z-YOq4)
+[<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" alt = "CSS" height = 40px>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjEwPak_Jf_AhWscmwGHcOnCJ0QFnoECAcQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&usg=AOvVaw2AefRLcVpaGBVUS8Z-YOq4)
 [<img src = "https://img.icons8.com/?size=512&id=20906&format=png" alt = "Git" height = 40px>](https://git-scm.com)
 [<img src = "https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" alt = "GitHub" height = 40px>](https://github.com)
 [<img src = "https://img.icons8.com/?size=512&id=62452&format=png" alt = "Firebase" height = 40px>](https://firebase.google.com)
