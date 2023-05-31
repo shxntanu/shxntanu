@@ -5,8 +5,8 @@
 </div>
 
 - I’m currently learning **App Development using Flutter**.
-- My interests lie in _native iOS and Android development_, along with _Full Stack Web Development_.
 - Started with Front-End Web Development using _HTML_, _CSS_ and _Bootstrap_ and moved onto Application Development using Flutter.
+- My interests lie in _native iOS and Android development_, along with _Full Stack Web Development_.
 - I’m looking for help with _JavaScript_.
 - I'm proficient in **Python, C++ and Java**.
 - Ask me about: Python, Java, Dart and C++.
