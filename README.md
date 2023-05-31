@@ -11,7 +11,7 @@
 - I'm proficient in **Python, C++ and Java**.
 - Ask me about: Python, Java, Dart and C++.
 - Knows Hindi, English and Marathi.
-- I'm highly skilled at **graphic design using Canva**, and can work my way around Illustrator and Photoshop.
+- I'm highly skilled at **graphic design using Canva**, and can work with around Illustrator and Photoshop.
 - **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go! (I've also clicked the photo that's on my banner :D)
 - How to reach me: **shantanuwable2003@gmail.com**
 
