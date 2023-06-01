@@ -15,7 +15,7 @@
 - **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go! (I've also clicked the photo that's on my banner :D)
 - How to reach me: **shantanuwable2003@gmail.com**
 
-<img src ="https://github.com/shxntanu/shxntanu/blob/bddc36eb4c69391e2477ca2ca3405dcf2d5102dc/assets/1.png">
+<img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png">
 
 - <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing web-app without any sign-ups required. Made in Flutter!)
 - <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app)
@@ -24,11 +24,11 @@
 - <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi based Vehicle and Crash Detection system, powered by Flutter, Ongoing as a part of Project based learning)
 
 
-<img src= "https://github.com/shxntanu/shxntanu/blob/bddc36eb4c69391e2477ca2ca3405dcf2d5102dc/assets/6.png">
+<img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
 
 - <a href="https://medium.com/@shxntanu/from-urls-to-pixels-how-browsers-bring-the-internet-to-life-aabf3aaf92f9">From URLs to Pixels — How Browsers bring the Internet to life</a>
 
-<img src= "https://github.com/shxntanu/shxntanu/blob/bddc36eb4c69391e2477ca2ca3405dcf2d5102dc/assets/4.png">
+<img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lft.png">
 
 <div align="center">
 
@@ -54,7 +54,7 @@
  
 </div>
 
-<img src="https://github.com/shxntanu/shxntanu/blob/bddc36eb4c69391e2477ca2ca3405dcf2d5102dc/assets/3.png">
+<img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lc.png">
 
 <div align="center">
 
@@ -67,13 +67,13 @@
 </div>
 
  
-<img src="https://github.com/shxntanu/shxntanu/blob/bddc36eb4c69391e2477ca2ca3405dcf2d5102dc/assets/5.png">
+<img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/contri.png">
 <div align="center">
 
 ![Snake animation](https://github.com/shxntanu/shxntanu/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-<img src="https://github.com/shxntanu/shxntanu/blob/bddc36eb4c69391e2477ca2ca3405dcf2d5102dc/assets/2.png">
+<img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/spotify.png">
 <div align="center">
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&redirect=true)
