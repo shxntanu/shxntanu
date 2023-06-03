@@ -78,5 +78,3 @@
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&redirect=true)
 </div>
-
-![](https://komarev.com/ghpvc/?username=shxntanu&style=flat-square&color=grey)
