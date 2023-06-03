@@ -32,25 +32,55 @@
 
 <div align="center">
 
-<a href="https://www.python.org"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt = "Python" height = 40px> </a> 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg" alt = "C" height = 40px> </a> 
+<a href="https://www.python.org"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt = "Python" height = 40px> </a>
+<img width="2">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg" alt = "C" height = 40px> </a>
+<img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-plusplus.svg" alt = "C++" height = 40px>](https://en.wikipedia.org/wiki/C%2B%2B)
+<img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" alt = "Java" height = 40px>](https://www.java.com/en/)
+<img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" alt = "Dart" height = 40px>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjzyvv1-5f_AhXGa2wGHV83DJYQFnoECAwQAQ&url=https%3A%2F%2Fdart.dev%2F&usg=AOvVaw3K8WED8OMZZGHKwzD9IJNB)
+<img width="2">
 [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt = "JavaScript" height = 40px>](https://en.wikipedia.org/wiki/JavaScript)
+<img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwid4cyN_Jf_AhXrbmwGHYpyAeUQFnoECAoQAQ&url=https%3A%2F%2Fflutter.dev%2F&usg=AOvVaw2fvkNby53pMEHpkl0gKIVl)
+<img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" alt = "HTML" height = 40px>](https://en.wikipedia.org/wiki/HTML)
+<img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" alt = "CSS" height = 40px>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjEwPak_Jf_AhWscmwGHcOnCJ0QFnoECAcQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&usg=AOvVaw2AefRLcVpaGBVUS8Z-YOq4)
+<img width="2">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo">
+<img width="2">
 [<img src = "https://img.icons8.com/?size=512&id=20906&format=png" alt = "Git" height = 40px>](https://git-scm.com)
+<img width="2">
 [<img src = "https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" alt = "GitHub" height = 40px>](https://github.com)
+<img width="2">
 [<img src = "https://img.icons8.com/?size=512&id=62452&format=png" alt = "Firebase" height = 40px>](https://firebase.google.com)
+<img width="2">
  
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-illustrator.svg" alt = "Adobe Illustrator" height = 40px>](https://www.adobe.com/in/products/illustrator.html)
+<img width="2">
 [<img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="Canva" height=40px>](https://www.canva.com)
+<img width="2">
 [<img src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" alt="Final Cut Pro" height=40px>](https://www.apple.com/in/final-cut-pro/)
-[<img src = "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt = "Fusion360" height = 40px>](https://www.autodesk.in/products/fusion-360/overview?term=1-YEAR&tab=subscription) 
+<img width="2">
+[<img src = "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt = "Fusion360" height = 40px>](https://www.autodesk.in/products/fusion-360/overview?term=1-YEAR&tab=subscription)
+<img width="2">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo">
+<img width="2">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo">
+<img width="2">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo">
+<img width="2">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo">
+<img width="2">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo">
+<img width="2">
 [<img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/AutCAD%20Logo.png" alt ="AutoCAD" height=40x>](https://www.autodesk.com/products/autocad-lt/overview)
+<img width="2">
 [<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/2880px-SolidWorks_Logo.svg.png" alt = "SolidWorks" height = 40px>](https://www.solidworks.com)
+<img width="2">
  
 </div>
 
@@ -77,4 +107,8 @@
 <div align="center">
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&redirect=true)
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shxntanu/count.svg?"  />
 </div>
