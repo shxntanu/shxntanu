@@ -40,9 +40,11 @@
 <img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" alt = "Java" height = 40px>](https://www.java.com/en/)
 <img width="2">
-[<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" alt = "Dart" height = 40px>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjzyvv1-5f_AhXGa2wGHV83DJYQFnoECAwQAQ&url=https%3A%2F%2Fdart.dev%2F&usg=AOvVaw3K8WED8OMZZGHKwzD9IJNB)
+[<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/dart.svg" alt = "Dart" height = 40px>](https://dart.dev)
 <img width="2">
 [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt = "JavaScript" height = 40px>](https://en.wikipedia.org/wiki/JavaScript)
+<img width="2">
+[<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">](https://react.dev)
 <img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>](https://flutter.dev/)
 <img width="2">
