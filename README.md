@@ -44,7 +44,7 @@
 <img width="2">
 [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt = "JavaScript" height = 40px>](https://en.wikipedia.org/wiki/JavaScript)
 <img width="2">
-[<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">](https://react.dev)
+[<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height = 40px>](https://react.dev)
 <img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>](https://flutter.dev/)
 <img width="2">
