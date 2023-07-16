@@ -9,19 +9,19 @@
 - My interests lie in  _Full Stack Web Development_ using MERN along with _native iOS and Android development_.
 - I’m learning _JavaScript_ and _React_.
 - I'm proficient in **Python, C++ and Java**.
-- Ask me about: Python, Java, Dart and C++.
-- Knows Hindi, English and Marathi.
-- I'm skilled at **graphic design using Canva**, and can work with around Illustrator and Photoshop.
+- Ask me about: Python, Java, Dart, and C++.
+- Knows Hindi, English, and Marathi.
+- I'm skilled at **graphic design using Canva** and can work with Illustrator and Photoshop.
 - **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go! (I've also clicked the photo that's on my banner :D)
 - How to reach me: **shantanuwable2003@gmail.com**
 
 <img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png">
 
-- <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing web-app without any sign-ups required. Made in Flutter!)
+- <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing web app without any sign-ups required. Made in Flutter!)
 - <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app)
 - <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python) 
-- <a href="https://github.com/shxntanu/Gharam_Masala">Gharam Masala</a> (Website for ordering home cooked food. Made the front end as a part of Project Based Learning)
-- <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi based Vehicle and Crash Detection system, powered by Flutter, as a part of Project based learning)
+- <a href="https://github.com/shxntanu/Gharam_Masala">Gharam Masala</a> (Website for ordering home-cooked food. Made the front end as a part of Project Based Learning)
+- <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning)
 
 
 <img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
