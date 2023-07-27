@@ -95,12 +95,6 @@
  
 </div>
 
- 
-<img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/contri.png">
-<div align="center">
-
-![Snake animation](https://github.com/shxntanu/shxntanu/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 <img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/spotify.png">
 <div align="center">
