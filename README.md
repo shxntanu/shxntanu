@@ -46,8 +46,10 @@
 <img width="2">
 
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>](https://flutter.dev/)
+<img width="2">
 [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height = 40px>](https://react.dev)
 <img width="2">
+<img src="https://github.com/shxntanu/shxntanu/blob/65f90b6557b2c664691524ba5922bdb9e3fcad91/assets/next-js-icon-seeklogo.com.svg" height=40px>
 <img width="2">
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" alt = "HTML" height = 40px>](https://en.wikipedia.org/wiki/HTML)
 <img width="2">
@@ -57,14 +59,13 @@
 [<img src = "https://img.icons8.com/?size=512&id=20906&format=png" alt = "Git" height = 40px>](https://git-scm.com)
 [<img src = "https://img.icons8.com/?size=512&id=AZOZNnY73haj&format=png" alt = "GitHub" height = 40px>](https://github.com)
 [<img src = "https://img.icons8.com/?size=512&id=62452&format=png" alt = "Firebase" height = 40px>](https://firebase.google.com)
+
  
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-illustrator.svg" alt = "Adobe Illustrator" height = 40px>](https://www.adobe.com/in/products/illustrator.html)
 <img width="2">
 [<img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="Canva" height=40px>](https://www.canva.com)
 <img width="2">
 [<img src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" alt="Final Cut Pro" height=40px>](https://www.apple.com/in/final-cut-pro/)
-<img width="2">
-[<img src = "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt = "Fusion360" height = 40px>](https://www.autodesk.in/products/fusion-360/overview?term=1-YEAR&tab=subscription)
 <img width="2">
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo">](https://developer.android.com/studio)
 <img width="2">
@@ -75,6 +76,10 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown">](https://en.wikipedia.org/wiki/Markdown)
 <img width="2">
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo">](https://developer.apple.com/xcode/)
+<img width="2">
+
+
+[<img src = "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png" alt = "Fusion360" height = 40px>](https://www.autodesk.in/products/fusion-360/overview?term=1-YEAR&tab=subscription)
 <img width="2">
 [<img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/AutCAD%20Logo.png" alt ="AutoCAD" height=40x>](https://www.autodesk.com/products/autocad-lt/overview)
 <img width="2">
