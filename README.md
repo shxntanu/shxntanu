@@ -22,6 +22,7 @@
 - <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python) 
 - <a href="https://github.com/shxntanu/Gharam_Masala">Gharam Masala</a> (Website for ordering home-cooked food. Made the front end as a part of Project Based Learning)
 - <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning)
+- <a href="https://github.com/shxntanu/GraphicDesign">Graphic Design</a> (Graphic Design stuff I've done!)
 
 
 <img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
