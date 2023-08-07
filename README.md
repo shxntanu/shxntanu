@@ -104,11 +104,6 @@
 </div>
 
 </div>
-<img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/spotify.png">
-<div align="center">
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=vfslkmx2w9y4qb36bdsi10rx9&redirect=true)
-</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/shxntanu/count.svg?"  />
