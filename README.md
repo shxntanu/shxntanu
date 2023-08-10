@@ -91,6 +91,11 @@
  
 </div>
 
+<img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/contri.png">
+<div align="center">
+ 
+![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shxntanu&show_icons=true&theme=default\&rank_icon=github)
+
 <img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lc.png">
 
 <div align="center">
