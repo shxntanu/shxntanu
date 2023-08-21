@@ -4,7 +4,6 @@
 <h3 align="center"> App Developer, Web enthusiast, occasional Graphic Designer and also an Engineering Student at PICT Pune.</h3>
 </div>
 
-- I’m currently learning **MERN Stack**.
 - Started with Front-End Web Development using _HTML_, _CSS_ and _Bootstrap_ and moved onto Application Development using Flutter, now interested in MERN Stack Development.
 - My interests lie in  _Full Stack Web Development_ using the MERN stack.
 - Likes exploring cryptography as a side hobby.
