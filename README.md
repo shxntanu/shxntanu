@@ -14,6 +14,8 @@
 - **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go! (I've also clicked the photo that's on my banner :D)
 - How to reach me: **shantanuwable2003@gmail.com**
 
+> [Portfolio](https://portfolio-shxntanu.vercel.app/)
+
 <img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png">
 
 - <a href="https://github.com/shxntanu/aerocode">aerocode</a> (Code sharing web app without any sign-ups required. Made in Flutter!)
