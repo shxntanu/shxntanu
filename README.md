@@ -104,8 +104,6 @@
 
 <div align="center">
 
-<a href="https://instagram.com/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50" alt="Instagram"></a>
-<a href="https://twitter.com/shxntanu"><img src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" width="50" height="50" alt="Twitter"></a>
 <a href="https://linkedin.com/in/shxntanu"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
 <a href="https://medium.com/@shxntanu"><img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" height=50 alt="Medium"></a>
 <a href="https://open.spotify.com/user/vfslkmx2w9y4qb36bdsi10rx9?si=f4203c314add4f8a"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" height=50 alt="Spotify"></a>
