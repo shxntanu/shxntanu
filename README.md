@@ -4,6 +4,8 @@
 <h3 align="center"> App Developer, Web enthusiast, occasional Graphic Designer and also an Engineering Student at PICT Pune.</h3>
 </div>
 
+> [Portfolio](https://shxntanu.vercel.app/)
+
 - Started with Front-End Web Development using _HTML_, _CSS_ and _Bootstrap_ and moved onto Application Development using Flutter, now interested in MERN Stack Development.
 - My interests lie in  _Full Stack Web Development_ using the MERN stack.
 - Likes exploring cryptography as a side hobby.
@@ -13,8 +15,6 @@
 - I'm skilled at **graphic design using Canva** and can work with Illustrator and Photoshop.
 - **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go! (I've also clicked the photo that's on my banner :D)
 - How to reach me: **shantanuwable2003@gmail.com**
-
-> [Portfolio](https://shxntanu.vercel.app/)
 
 <img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png">
 
