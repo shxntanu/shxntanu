@@ -9,7 +9,7 @@
 - Started with Front-End Web Development using _HTML_, _CSS_ and _Bootstrap_ and moved onto Application Development using Flutter, now interested in MERN Stack Development.
 - My interests lie in  _Full Stack Web Development_ using the MERN stack.
 - Likes exploring cryptography as a side hobby.
-- I'm proficient in **Python, C++ and Java**.
+- Proficient in **Python, C++ and Java**.
 - Ask me about: Python, Java, Dart, and C++.
 - Knows Hindi, English, and Marathi.
 - I'm skilled at **graphic design using Canva** and can work with Illustrator and Photoshop.
