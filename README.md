@@ -1,13 +1,13 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/shxntanu/shxntanu/main/IMG_3665%202.jpg">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shantanu </h1>
-<h3 align="center"> App Developer, Web enthusiast, occasional Graphic Designer and also an Engineering Student at PICT Pune.</h3>
+<h3 align="center"> App Developer, Web Developer, occasional Graphic Designer and also an Engineering Student at PICT Pune.</h3>
 </div>
 
 > [Portfolio](https://shxntanu.vercel.app/)
 
 - Started with Front-End Web Development using _HTML_, _CSS_ and _Bootstrap_ and moved onto Application Development using Flutter, now interested in MERN Stack Development.
-- My interests lie in  _Full Stack Web Development_ using the MERN stack.
+- Interested in  _Full Stack Web Development_ using the MERN stack.
 - Likes exploring cryptography as a side hobby.
 - Proficient in **Python, C++ and Java**.
 - Ask me about: Python, Java, Dart, and C++.
