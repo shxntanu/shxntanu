@@ -1,5 +1,3 @@
-![image](https://github.com/shxntanu/shxntanu/assets/97496261/9ef14309-17ce-4d85-a580-5c4861ef598c)<div align="center">
- 
 <img src="https://github.com/shxntanu/shxntanu/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" >
 <h1 align="center">Hi, I'm Shantanu 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
