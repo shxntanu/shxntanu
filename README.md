@@ -7,14 +7,14 @@
 
 > [Portfolio](https://shxntanu.vercel.app/)
 
-- Started with Front-End Web Development using _HTML_, _CSS_ and _Bootstrap_ and moved onto Application Development using Flutter, now interested in MERN Stack Development.
-- Interested in  _Full Stack Web Development_ using the MERN stack.
+- Flutter App Developer, Full Stack Web Developer and a bit of a cybersec Geek.
+- Interested in  _Cybersecurity_ and _Ethical Hacking_.
 - Likes exploring cryptography as a side hobby.
-- Proficient in **Python, C++ and Java**.
-- Ask me about: Python, Java, Dart, and C++.
+- Likes to make pixels look good in Canva (Illustrator and Photoshop too btw).
+- Proficient in **Python, C++, Java & JavaScript/TypeScript**.
 - Knows Hindi, English, and Marathi.
-- I'm skilled at **graphic design using Canva** and can work with Illustrator and Photoshop.
-- **Fun Fact**: I'm a huge computer gaming enthusiast. I've got thousands of hours of playtime in popular FPS titles. I'm also a photographer, always ready with a camera wherever I go! (I've also clicked the photo that's on my banner :D)
+- Likes clicking heads in Counter Strike, revving cars in Forza, Tap Strafing in Apex & Full Boxing in Fortnite.
+- Can build a basic Redstone machine! ^_^
 - How to reach me: **shantanuwable2003@gmail.com**
 
 <img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png">
