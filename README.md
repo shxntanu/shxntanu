@@ -1,6 +1,7 @@
 <div align="center">
+ 
 <img src="https://github.com/shxntanu/shxntanu/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" >
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Shantanu </h1>
+<h1 align="center">Hi, I'm Shantanu 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 <h3 align="center"> App Developer, Full Stack Web Developer, occasional Graphic Designer and also an Engineering Student at PICT Pune.</h3>
 </div>
@@ -72,6 +73,7 @@
 <img width="2">
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height=40px>](https://www.mongodb.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height=40px>](https://expressjs.com/)
+[<img src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" height=40px>](https://jwt.io/)
 
  
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-illustrator.svg" alt = "Adobe Illustrator" height = 40px>](https://www.adobe.com/in/products/illustrator.html)
