@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/shxntanu/shxntanu/assets/97496261/9ef14309-17ce-4d85-a580-5c4861ef598c)<div align="center">
  
 <img src="https://github.com/shxntanu/shxntanu/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" >
 <h1 align="center">Hi, I'm Shantanu 👋🏼</h1>
@@ -76,6 +76,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height=40px>](https://www.mongodb.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height=40px>](https://expressjs.com/)
 [<img src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" height=40px>](https://jwt.io/)
+[<img src="https://play-lh.googleusercontent.com/cUrv0t00FYQ1GKLuOTvv8qjo1lSDjqZC16IOp3Fb6ijew6Br5m4o16HhDp0GBu_Bw8Y" height=40px>](https://uptimerobot.com/)
 
  
 [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-illustrator.svg" alt = "Adobe Illustrator" height = 40px>](https://www.adobe.com/in/products/illustrator.html)
