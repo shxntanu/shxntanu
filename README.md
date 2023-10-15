@@ -11,7 +11,7 @@
 - Flutter App Developer, Full Stack Web Developer and a bit of a cybersec Geek.
 - Interested in  _Cybersecurity_ and _Ethical Hacking_.
 - Likes exploring cryptography as a side hobby.
-- Likes to make pixels look good in Canva (Illustrator and Photoshop too btw).
+- Likes to make pixels look good in Canva (Illustrator, Photoshop and Figma as well btw).
 - Proficient in **Python, C++, Java & JavaScript/TypeScript**.
 - Knows Hindi, English, and Marathi.
 - Likes clicking heads in Counter Strike & revving cars in Forza.
