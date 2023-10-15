@@ -13,7 +13,7 @@
 - Likes to make pixels look good in Canva (Illustrator and Photoshop too btw).
 - Proficient in **Python, C++, Java & JavaScript/TypeScript**.
 - Knows Hindi, English, and Marathi.
-- Likes clicking heads in Counter Strike, revving cars in Forza, Tap Strafing in Apex & Full Boxing in Fortnite.
+- Likes clicking heads in Counter Strike & revving cars in Forza.
 - Can build a basic Redstone machine! ^_^
 - How to reach me: **shantanuwable2003@gmail.com**
 
