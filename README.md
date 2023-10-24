@@ -13,7 +13,6 @@
 - Proficient in **Python, C++, Java & JavaScript/TypeScript**.
 - Knows Hindi, English, and Marathi.
 - Likes clicking heads in Counter Strike & revving cars in Forza.
-- Can build a basic Redstone machine! ^_^
 - How to reach me: **shantanuwable2003@gmail.com**
 
 <img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png">
