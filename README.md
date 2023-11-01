@@ -24,6 +24,7 @@
 - <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning)
 - <a href="https://github.com/shxntanu/GraphicDesign">Graphic Design</a> (Graphic Design stuff I've done!)
 - PageTalk <a href="https://github.com/PageTalk/Backend">(MySQL)</a> <a href="https://github.com/PageTalk/Backend-MongoDB">(MongoDB)</a> (Full Stack app allowing you to converse with a PDF! Backend using ExpressJS in TypeScript that interfaces with a MySQL Server running on a Docker Container / MongoDB Atlas. Used MVC, Bcrypt and JWT)
+- PageTalk <a href="https://github.com/shxntanu/frontend">(Frontend)</a> <a href="https://github.com/PageTalk/Backend-MongoDB">(MongoDB)</a> (Full Stack app allowing you to converse with a PDF! Frontend using NextJS in TypeScript.)
 - <a href="https://pfisoc.com">Pfi-Soc Website</a> (Built the website for newly founded club, all in NextJS using TypeScript)
 
 
