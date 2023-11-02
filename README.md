@@ -11,6 +11,7 @@
 - Likes exploring cryptography as a side hobby.
 - Likes to move pixels in Canva (Illustrator, Photoshop and Figma as well btw).
 - Proficient in **Python, C++, Java & JavaScript/TypeScript**.
+- Exploring Rust as a hobby.
 - Knows Hindi, English, and Marathi.
 - Likes clicking heads in Counter Strike & revving cars in Forza.
 - How to reach me: **shantanuwable2003@gmail.com**
