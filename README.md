@@ -23,7 +23,6 @@
 - 🏒 <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python) 
 - 🌶️ <a href="https://github.com/shxntanu/Gharam_Masala">Gharam Masala</a> (Website for ordering home-cooked food. Made the front end as a part of Project Based Learning)
 - 🚗 <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning)
-- 🎨 <a href="https://github.com/shxntanu/GraphicDesign">Graphic Design</a> (Graphic Design stuff I've done!)
 - 💬 PageTalk <a href="https://github.com/PageTalk">(Repository)</a> (Full Stack app allowing you to converse with a PDF with a custom LLM! Backend using ExpressJS in TypeScript that interfaces with a MySQL Server running on a Docker Container / MongoDB Atlas. Used MVC, Bcrypt and JWT. Frontend using NextJS in TypeScript.)
 - 💸 <a href="https://pfisoc.com">Pfi-Soc Website</a> (Built the website for newly founded club, all in NextJS using TypeScript)
 - 🏆 Tata Power Hackathon <a href="https://github.com/orgs/hacktastic-4/repositories">(Repository)</a> (The Data Visualisation project that got me and the team the First Prize🥇 at the Tata Power Hackathon conducted by COEP Mindspark)
