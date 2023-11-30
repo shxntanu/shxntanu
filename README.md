@@ -25,7 +25,7 @@
 - 🚗 <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning)
 - 💬 PageTalk <a href="https://github.com/PageTalk">(Repository)</a> (Full Stack app allowing you to converse with a PDF with a custom LLM! Backend using ExpressJS in TypeScript that interfaces with a MySQL Server running on a Docker Container / MongoDB Atlas. Used MVC, Bcrypt and JWT. Frontend using NextJS in TypeScript.)
 - 💸 <a href="https://pfisoc.com">Pfi-Soc Website</a> (Built the website for newly founded club, all in NextJS using TypeScript)
-- 🏆 Tata Power Hackathon <a href="https://github.com/orgs/hacktastic-4/repositories">(Repository)</a> (The Data Visualisation project that got me and the team the First Prize🥇 at the Tata Power Hackathon conducted by COEP Mindspark)
+- 🏆 Tata Power Hackathon <a href="https://github.com/orgs/hacktastic-4/repositories">(Repository)</a> <a href="https://frontend-hacktastic-4.vercel.app/">(Deployment)</a> (The Data Visualisation project that got me and the team the First Prize🥇 at the Tata Power Hackathon conducted by COEP Mindspark)
 
 
 <img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
