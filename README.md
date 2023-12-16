@@ -6,12 +6,12 @@
 
 > [Portfolio](https://shxntanu.vercel.app/)
 
-- Flutter Developer, Full Stack Web Developer and a bit of a cybersec Geek.
+- Full Stack Web Developer, Flutter Developer and a bit of a cybersec Geek.
 - Interested in  _Cybersecurity_ and _Ethical Hacking_.
-- Likes exploring cryptography as a side hobby.
+- Likes geeking out about cryptography 🕵️
 - Likes to move pixels in Canva (Illustrator, Photoshop and Figma as well btw).
 - Proficient in **Python, C++, Java & JavaScript/TypeScript**.
-- Exploring Rust as a hobby.
+- Learning C as a hobby.
 - Knows Hindi, English, and Marathi.
 - Likes clicking heads in Counter Strike & revving cars in Forza.
 - How to reach me: **shantanuwable2003@gmail.com**
