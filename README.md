@@ -73,6 +73,7 @@
 [<img src="https://github.com/shxntanu/shxntanu/blob/b62c0f7cd6beee27d60a706ce1d9612d210dc0be/assets/mysql.png" height=40px>](https://www.mysql.com/)
 <img width="2">
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height=40px>](https://www.mongodb.com/)
+[<img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" height=35px>](https://www.djangoproject.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height=40px>](https://expressjs.com/)
 [<img src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" height=40px>](https://jwt.io/)
 [<img src="https://play-lh.googleusercontent.com/cUrv0t00FYQ1GKLuOTvv8qjo1lSDjqZC16IOp3Fb6ijew6Br5m4o16HhDp0GBu_Bw8Y" height=40px>](https://uptimerobot.com/)
