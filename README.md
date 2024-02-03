@@ -7,7 +7,6 @@
 > [Portfolio](https://shxntanu.vercel.app/)
 
 - Full Stack Web Developer, Flutter Developer and a bit of a cybersec Geek.
-- Interested in  _Cybersecurity_ and _Ethical Hacking_.
 - Likes geeking out about cryptography 🕵️
 - Likes to move pixels in Canva (Illustrator, Photoshop and Figma as well btw).
 - Proficient in **Python, C++, Java & JavaScript/TypeScript**.
