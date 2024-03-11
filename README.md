@@ -117,6 +117,7 @@
     <a href="https://medium.com/@shxntanu"><img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" height=50 alt="Medium"></a>
     <a href="https://open.spotify.com/user/vfslkmx2w9y4qb36bdsi10rx9?si=f4203c314add4f8a"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" height=50 alt="Spotify"></a>
     <a href="https://www.codechef.com/users/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/2880px-Codechef%28new%29_logo.svg.png" height=50 alt="CodeChef"></a>
+    <a href="https://leetcode.com/shxntanu/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
   </div>
 </div>
 
