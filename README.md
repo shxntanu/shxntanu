@@ -18,7 +18,7 @@
 - <a href="https://github.com/shxntanu/aerocode">{ aerocode }</a> (Code sharing web app without any sign-ups required. Made in Flutter!)
 -  🖩 <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app)
 - 🏒 <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python)
-- 🎵 Minima-List <a href="https://github.com/shxntanu/minima-list-ML">(Backend + ML)</a> <a href="https://github.com/shxntanu/minima-list">(Frontend)</a> (Get music recommendations based on the song that's currently occupying your mind)
+- 🎵 Minima-List <a href="https://github.com/shxntanu/minima-list-ML">(Repository)</a> (Get music recommendations based on the song that's currently occupying your mind)
 - 🌶️ <a href="https://github.com/shxntanu/Gharam_Masala">Gharam Masala</a> (Website for ordering home-cooked food. Made the front end as a part of Project Based Learning)
 - 🚗 <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning)
 - 💬 PageTalk <a href="https://github.com/PageTalk">(Repository)</a> (Full Stack app allowing you to converse with a PDF with a custom LLM! Backend using ExpressJS in TypeScript that interfaces with a MySQL Server running on a Docker Container / MongoDB Atlas. Used MVC, Bcrypt and JWT. Frontend using NextJS in TypeScript.)
