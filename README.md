@@ -8,7 +8,7 @@
 - Full Stack Web Developer, Flutter Developer, Graphic Designer, Weeb, and a lot more.
 - Likes to move pixels in Canva (Illustrator, Photoshop and Figma as well btw).
 - Proficient in **Python, C++, Java & JavaScript/TypeScript**.
-- Learning C as a hobby (and Rust to write the same code, but memory-safe).
+- Learning **C** as a hobby (and **Rust** to write the same code, but memory-safe).
 - Knows Hindi, English, and Marathi.
 - Likes clicking heads in Counter Strike & revving cars in Forza.
 - How to reach me: **shantanuwable2003@gmail.com**
