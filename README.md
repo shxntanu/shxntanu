@@ -51,6 +51,8 @@
 
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>](https://flutter.dev/)
   <img width="2">
+  [<img src="https://miro.medium.com/v2/resize:fit:980/1*cWuvkF15QKOsTHtgyIaqOA.png" alt="Flask" height=40px>](https://flask.palletsprojects.com/en/3.0.x/)
+  <img width="2">
   [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height = 40px>](https://react.dev)
   <img width="2">
   <img src="https://github.com/shxntanu/shxntanu/blob/65f90b6557b2c664691524ba5922bdb9e3fcad91/assets/next-js-icon-seeklogo.com.svg" height=40px>
