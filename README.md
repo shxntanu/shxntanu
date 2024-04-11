@@ -4,6 +4,7 @@
 <h3 align="center">Full Stack Web Developer, App Developer, occasional Graphic Designer and also an Engineering Student at PICT Pune.</h3>
 
 > [Portfolio](https://shxntanu.vercel.app/)
+> [Resume](https://drive.google.com/file/d/1cFqdMATlG9AZmuVjzdYXh9BCIROCJ4Dw/view?usp=sharing)
 
 - Full Stack Web Developer, Flutter Developer, Graphic Designer, Weeb, and a lot more.
 - Likes to move pixels in Canva (Illustrator, Photoshop and Figma as well btw).
