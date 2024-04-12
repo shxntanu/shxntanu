@@ -55,6 +55,9 @@
   <img width="2">
   [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height = 40px>](https://react.dev)
   <img width="2">
+  [<img src = "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height = 40px>](https://redux.js.org/)
+  [<img src = "https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height = 40px>](https://github.com/pmndrs/zustand)
+  <img width="2">
   <img src="https://github.com/shxntanu/shxntanu/blob/65f90b6557b2c664691524ba5922bdb9e3fcad91/assets/next-js-icon-seeklogo.com.svg" height=40px>
   <img width="2">
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" alt = "HTML" height = 40px>](https://en.wikipedia.org/wiki/HTML)
