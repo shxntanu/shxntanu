@@ -3,7 +3,7 @@
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 <h3 align="center">Full Stack Web Developer, App Developer, occasional Graphic Designer and also an Engineering Student at PICT Pune.</h3>
 
-> [Portfolio](https://shxntanu.vercel.app/)
+> [Portfolio](https://shxntanu.tech/)
 
 - Full Stack Web Developer, Flutter Developer, Graphic Designer, Weeb, and a lot more.
 - Likes to move pixels in Canva (Illustrator, Photoshop and Figma as well btw).
