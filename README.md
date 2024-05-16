@@ -15,16 +15,27 @@
 
 <img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png">
 
-- <a href="https://github.com/shxntanu/aerocode">{ aerocode }</a> (Code sharing web app without any sign-ups required. Made in Flutter!)
--  🖩 <a href="https://github.com/shxntanu/frugalista">frugalista.</a> (A simple and minimalistic expense manager app)
-- 🏒 <a href="https://github.com/shxntanu/air-hockey-pygame">AirHockey</a> (Air Hockey game made purely in Python)
-- 🎵 Minima-List <a href="https://github.com/shxntanu/minima-list-ML">(Repository)</a> (Get music recommendations based on the song that's currently occupying your mind)
-- 🌶️ <a href="https://github.com/shxntanu/Gharam_Masala">Gharam Masala</a> (Website for ordering home-cooked food. Made the front end as a part of Project Based Learning)
-- 🚗 <a href="https://github.com/shxntanu/AutoInsight">AutoInsight</a> (RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning)
-- 💬 PageTalk <a href="https://github.com/shxntanu/PageTalk">(Repository)</a> (Full Stack app allowing you to converse with a PDF with a custom LLM! Backend using ExpressJS in TypeScript that interfaces with a MySQL Server running on a Docker Container / MongoDB Atlas. Used MVC, Bcrypt and JWT. Frontend using NextJS in TypeScript.)
-- 💸 <a href="https://pfisoc.com">Pfi-Soc Website</a> (Built the website for newly founded club, all in NextJS using TypeScript)
-- 🏆 Tata Power Hackathon <a href="https://github.com/orgs/hacktastic-4/repositories">(Repository)</a> <a href="https://frontend-hacktastic-4.vercel.app/">(Deployment)</a> (The Data Visualisation project that got me and the team the First Prize🥇 at the Tata Power Hackathon conducted by COEP Mindspark)
-- 🛣️ <a href="https://github.com/shxntanu/DSA">DSA</a> (Maintaining a habit of solving daily DSA Questions)
+## Web
+
+- [PageTalk](https://github.com/shxntanu/PageTalk): Ask Questions, gain summaries and take notes from any Document using the power of LLMs!
+- [Solar Intelligence](https://github.com/shxntanu/solar-intelligence): Comprehensive Solar Data visualisation Platform ( **🏆 Winner at COEP MindSpark 2023** )
+- [Pfi-Soc Club Website](https://pfisoc.com): Built the website for newly founded club, all in NextJS using TypeScript.
+- [Gharam Masala](https://github.com/shxntanu/Gharam_Masala): Website for ordering home-cooked food. Made the front end as a part of Project Based Learning in First Year.
+
+## Backend
+
+- [Email Classifier](https://github.com/shxntanu/email-classifier): Rapid & Intelligent Email Routing for any organisation using the power of RAG and Distributed Task Queues! ( **🏆 Winner at Barclays Hack-O-Hire 2024** )
+- [Minima-List](https://github.com/shxntanu/minima-list-ML): Get music recommendations based on the song that's currently occupying your mind.
+
+## App
+
+- [aerocode](https://github.com/shxntanu/aerocode): Code sharing web app without any sign-ups required. Made in Flutter!
+- [frugalista](https://github.com/shxntanu/frugalista): A simple and minimalistic expense manager app
+- [AutoInsight](https://github.com/shxntanu/AutoInsight): RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning.
+
+## Game
+
+- [AirHockey](https://github.com/shxntanu/air-hockey-pygame): Air Hockey game made purely in Python.
 
 
 <img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
