@@ -33,6 +33,15 @@
 - [frugalista](https://github.com/shxntanu/frugalista): A simple and minimalistic expense manager app
 - [AutoInsight](https://github.com/shxntanu/AutoInsight): RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning.
 
+## C
+
+- [HTTP Server](https://github.com/shxntanu/http-server-c): HTTP Server that accepts GET and POST Requests using Sockets and network protocols, made from scratch in C.
+
+## Rust
+
+- [Word Counter CLI in Rust](https://github.com/shxntanu/wc-rust)
+- [JSON Parser in Rust](https://github.com/shxntanu/json-parser-rust)
+
 ## Game
 
 - [AirHockey](https://github.com/shxntanu/air-hockey-pygame): Air Hockey game made purely in Python.
