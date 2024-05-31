@@ -27,7 +27,7 @@
 - [Email Classifier](https://github.com/shxntanu/email-classifier): Email Classification and Rapid Automatic Re-routing with the power of LLMs and Distributed Task Queues. ( **🏆 Winner at Barclays Hack-O-Hire 2024** )
 - [Minima-List](https://github.com/shxntanu/minima-list-ML): Get music recommendations based on the song that's currently occupying your mind.
 
-## App
+## Flutter
 
 - [aerocode](https://github.com/shxntanu/aerocode): Code sharing web app without any sign-ups required. Made in Flutter!
 - [frugalista](https://github.com/shxntanu/frugalista): A simple and minimalistic expense manager app
