@@ -1,60 +1,73 @@
-<img src="https://github.com/shxntanu/shxntanu/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" >
-<h1 align="center">Hi, I'm Shantanu 👋🏼</h1>
+<!-- <img src="https://github.com/shxntanu/shxntanu/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" > -->
+<!-- <h1 align="center">Hi, I'm Shantanu 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
-<h3 align="center">Full Stack Web Developer, occasional Graphic Designer, Systems Programming Enthusiast and also an Engineering Student.</h3>
+<h3 align="center">Full Stack Web Developer, occasional Graphic Designer, Systems Programming Enthusiast and also an Engineering Student.</h3> -->
+
+<img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
+
+### Hey, I'm Shantanu 👋🏼
+
+I'm a 21 year old Full Stack Developer, occasional Graphic Designer, Systems Programming Enthusiast and also an Engineering Student.
 
 > [Portfolio](https://shxntanu.tech/)
 
-- Full Stack Web Developer, Flutter Developer, Graphic Designer, Weeb, and a lot more.
+<!-- - Full Stack Web Developer, Flutter Developer, Graphic Designer, Weeb, and a lot more.
 - Likes to move pixels in Canva (Illustrator, Photoshop and Figma as well btw).
 - Proficient in **Python, C++, Java & JavaScript/TypeScript**.
 - Learning **C** as a hobby (and **Rust** to write the same code, but memory-safe).
 - Knows Hindi, English, and Marathi.
 - Likes clicking heads in Counter Strike & revving cars in Forza.
-- How to reach me: **shantanuwable2003@gmail.com**
+- How to reach me: **shantanuwable2003@gmail.com** -->
 
-<img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png">
+<!-- <img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png"> -->
 
-## Web
+## ⚡️ Projects
+
+### Web
 
 - [PageTalk](https://github.com/shxntanu/PageTalk): Ask Questions, gain summaries and take notes from any Document using the power of LLMs!
 - [Solar Intelligence](https://github.com/shxntanu/solar-intelligence): Comprehensive Solar Data visualisation Platform ( **🏆 Winner at COEP MindSpark 2023** )
 - [Pfi-Soc Club Website](https://pfisoc.com): Built the website for newly founded club, all in NextJS using TypeScript.
 - [Gharam Masala](https://github.com/shxntanu/Gharam_Masala): Website for ordering home-cooked food. Made the front end as a part of Project Based Learning in First Year.
 
-## Backend
+### Backend
 
 - [Email Classifier](https://github.com/shxntanu/email-classifier): Email Classification and Rapid Automatic Re-routing with the power of LLMs and Distributed Task Queues. ( **🏆 Winner at Barclays Hack-O-Hire 2024** )
 - [Minima-List](https://github.com/shxntanu/minima-list-ML): Get music recommendations based on the song that's currently occupying your mind.
 - [PageTalk Backend - Express MongoDB](https://github.com/PageTalk/Backend-MongoDB): Backend made in Express.js, using Docker for containerisation, JWT and Bcrypt for Authentication, and MongoDB Atlas as a database, that interfaces with a LLaMa2 LLM, all in TypeScript. 
 
-## Flutter
+### Flutter
 
 - [aerocode](https://github.com/shxntanu/aerocode): Code sharing web app without any sign-ups required. Made in Flutter!
 - [frugalista](https://github.com/shxntanu/frugalista): A simple and minimalistic expense manager app
 - [AutoInsight](https://github.com/shxntanu/AutoInsight): RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning.
 
-## C
+### C
 
 - [HTTP Server](https://github.com/shxntanu/http-server-c): HTTP Server that accepts GET and POST Requests using Sockets and network protocols, made from scratch in C.
+- [HyperBloom](https://github.com/shxntanu/hyperbloom): High Concurrency Bloom Filter implementations in C.
 
-## Rust
+### Rust
 
 - [Word Counter CLI in Rust](https://github.com/shxntanu/wc-rust)
 - [JSON Parser in Rust](https://github.com/shxntanu/json-parser-rust)
 
-## Game
+### Game
 
 - [AirHockey](https://github.com/shxntanu/air-hockey-pygame): Air Hockey game made purely in Python.
 
 
-<img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
+<!-- <img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
 
-- <a href="https://medium.com/@shxntanu/from-urls-to-pixels-how-browsers-bring-the-internet-to-life-aabf3aaf92f9">From URLs to Pixels — How Browsers bring the Internet to life</a>
+- <a href="https://medium.com/@shxntanu/from-urls-to-pixels-how-browsers-bring-the-internet-to-life-aabf3aaf92f9">From URLs to Pixels — How Browsers bring the Internet to life</a> 
 
-<img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lft.png">
+<img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lft.png"> -->
 
-<div align="center">
+<p>&nbsp;</p>
+
+## 🔧 Languages, Frameworks and Tools
+
+<!-- <div align="center"> -->
 
   <a href="https://www.python.org"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt = "Python" height = 40px> </a>
   <img width="2">
@@ -129,23 +142,25 @@
   [<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/2880px-SolidWorks_Logo.svg.png" alt = "SolidWorks" height = 40px>](https://www.solidworks.com)
   <img width="2">
 
-</div>
+<!-- </div> -->
 
-<img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/contri.png">
+<!-- <img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/contri.png">
 
-<div align="center">
+ <div align="center">
  
-  ![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shxntanu&show_icons=true&theme=default\&rank_icon=github)
+  ![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shxntanu&show_icons=true&theme=default\&rank_icon=github) -->
   
-  <img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lc.png">
-  <div align="center">
-    <a href="https://linkedin.com/in/shxntanu"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
-    <a href="https://medium.com/@shxntanu"><img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" height=50 alt="Medium"></a>
-    <a href="https://open.spotify.com/user/vfslkmx2w9y4qb36bdsi10rx9?si=f4203c314add4f8a"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" height=50 alt="Spotify"></a>
-    <a href="https://www.codechef.com/users/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/2880px-Codechef%28new%29_logo.svg.png" height=50 alt="CodeChef"></a>
-    <a href="https://leetcode.com/shxntanu/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
-  </div>
-</div>
+  <!-- <img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lc.png"> 
+   <div align="center"> -->
+
+## 📮 Let's Connect
+  <a href="https://linkedin.com/in/shxntanu"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
+  <a href="https://medium.com/@shxntanu"><img src="https://www.dropbox.com/team/team_logo/dbtid%3AAACXpg8cm0XzfCIs1qaUSYqq-l6Ge7Q_pE4?v=1603320488672" height=50 alt="Medium"></a>
+  <a href="https://open.spotify.com/user/vfslkmx2w9y4qb36bdsi10rx9?si=f4203c314add4f8a"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" height=50 alt="Spotify"></a>
+  <a href="https://www.codechef.com/users/shxntanu"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/2880px-Codechef%28new%29_logo.svg.png" height=50 alt="CodeChef"></a>
+  <a href="https://leetcode.com/shxntanu/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
+  <!-- </div> 
+</div> -->
 
 <div align="center">
  
@@ -159,6 +174,7 @@
   <img src="https://profile-counter.glitch.me/shxntanu/count.svg?"  />
 </div>
 <p>&nbsp;</p>
-<div align="center">
+
+<!-- <div align="center">
  <img height="64" src="octocat.gif">
-</div>
+</div> -->
