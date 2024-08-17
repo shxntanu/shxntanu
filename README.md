@@ -21,6 +21,14 @@ I'm a 21 year old Full Stack Developer, occasional Graphic Designer, Systems Pro
 
 <!-- <img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png"> -->
 
+## 🙋🏻‍♂️ About Me
+
+I like to say that I am a full-stack developer, but I have most experience with frontend development using React. I also have experience
+in development with a wide variety of frameworks like Express, NextJS, Django, Angular, Spring, Flask, and Express.
+
+I'm a versatile programmer and can pick up and learn any framework in a short span of time. I have an interest in low-level programming
+and like to read in-depth about computers and networking.
+
 ## ⚡️ Projects
 
 ### Web
