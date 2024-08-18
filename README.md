@@ -35,7 +35,7 @@ and like to read in-depth about computers and networking in my free time.
 
 <!-- ====================== PROJECTS ====================== -->
 
-<!-- ## ⚡️ Projects
+## ⚡️ Projects
 
 ### Web
 
@@ -68,7 +68,7 @@ and like to read in-depth about computers and networking in my free time.
 
 ### Game
 
-- [AirHockey](https://github.com/shxntanu/air-hockey-pygame): Air Hockey game made purely in Python. -->
+- [AirHockey](https://github.com/shxntanu/air-hockey-pygame): Air Hockey game made purely in Python.
 
 
 <!-- <img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
