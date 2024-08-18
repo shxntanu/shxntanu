@@ -43,6 +43,8 @@ and like to read in-depth about computers and networking in my free time.
 - [Solar Intelligence](https://github.com/shxntanu/solar-intelligence): Comprehensive Solar Data visualisation Platform ( **🏆 Winner at COEP MindSpark 2023** )
 - [Pfi-Soc Club Website](https://pfisoc.com): Built the website for newly founded club, all in NextJS using TypeScript.
 - [Gharam Masala](https://github.com/shxntanu/Gharam_Masala): Website for ordering home-cooked food. Made the front end as a part of Project Based Learning in First Year.
+- [Portfolio Website](https://github.com/shxntanu/portfolio): Personal portfolio website.
+- [usePopcorn](https://github.com/shxntanu/portfolio): Movie List app in React.
 
 ### Backend
 
@@ -60,6 +62,7 @@ and like to read in-depth about computers and networking in my free time.
 
 - [HTTP Server](https://github.com/shxntanu/http-server-c): HTTP Server that accepts GET and POST Requests using Sockets and network protocols, made from scratch in C.
 - [HyperBloom](https://github.com/shxntanu/hyperbloom): High Concurrency Bloom Filter implementations in C.
+- [Arduino Scripts for locomotion using a PS4 controller](https://github.com/shxntanu/escalade-iitg-23)
 
 ### Rust
 
