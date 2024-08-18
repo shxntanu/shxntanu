@@ -1,3 +1,5 @@
+<!-- ====================== INTRO ====================== -->
+
 <!-- <img src="https://github.com/shxntanu/shxntanu/blob/991125d60c33f44bf49b63043cb0daed151434ba/assets/github-banner-gif.gif" > -->
 <!-- <h1 align="center">Hi, I'm Shantanu 👋🏼</h1>
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
@@ -21,6 +23,8 @@ I'm a 21 year old Full Stack Developer, occasional Graphic Designer, Systems Pro
 
 <!-- <img src ="https://github.com/shxntanu/shxntanu/blob/11f7347e12757d74769a4bd77583dae0658c1efe/assets/proj.png"> -->
 
+<!-- ====================== ABOUT ME ====================== -->
+
 ## 🙋🏻‍♂️ About Me
 
 I like to say that I am a full-stack developer, but I have most experience with frontend development using **React**. I also have experience
@@ -29,7 +33,9 @@ in development with a wide variety of frameworks like **NextJS**, **Django**, **
 I'm a versatile programmer and can pick up and learn any framework in a short span of time. I have an interest in low-level programming
 and like to read in-depth about computers and networking in my free time.
 
-## ⚡️ Projects
+<!-- ====================== PROJECTS ====================== -->
+
+<!-- ## ⚡️ Projects
 
 ### Web
 
@@ -62,16 +68,16 @@ and like to read in-depth about computers and networking in my free time.
 
 ### Game
 
-- [AirHockey](https://github.com/shxntanu/air-hockey-pygame): Air Hockey game made purely in Python.
+- [AirHockey](https://github.com/shxntanu/air-hockey-pygame): Air Hockey game made purely in Python. -->
 
 
 <!-- <img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/stories_1.png">
 
 - <a href="https://medium.com/@shxntanu/from-urls-to-pixels-how-browsers-bring-the-internet-to-life-aabf3aaf92f9">From URLs to Pixels — How Browsers bring the Internet to life</a> 
 
-<img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lft.png"> -->
+<img src= "https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lft.png"> 
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
 ## 🔧 Languages, Frameworks and Tools
 
