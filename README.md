@@ -44,7 +44,7 @@ and like to read in-depth about computers and networking in my free time.
 - [Pfi-Soc Club Website](https://pfisoc.com): Built the website for newly founded club, all in NextJS using TypeScript.
 - [Gharam Masala](https://github.com/shxntanu/Gharam_Masala): Website for ordering home-cooked food. Made the front end as a part of Project Based Learning in First Year.
 - [Portfolio Website](https://github.com/shxntanu/portfolio): Personal portfolio website.
-- [usePopcorn](https://github.com/shxntanu/portfolio): Movie List app in React.
+- [usePopcorn](https://usepopcorn-but-better.netlify.app/): Movie List app in React.
 
 ### Backend
 
