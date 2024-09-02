@@ -86,9 +86,9 @@ and like to read in-depth about computers and networking in my free time.
 
 <!-- <div align="center"> -->
 
-  <a href="https://www.python.org"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt = "Python" height = 40px> </a>
+  [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" alt = "Python" height = 40px>](https://www.python.org)
   <img width="2">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg" alt = "C" height = 40px> </a>
+  [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg" alt = "C" height = 40px>](https://en.wikipedia.org/wiki/C_(programming_language))
   <img width="2">
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c-plusplus.svg" alt = "C++" height = 40px>](https://en.wikipedia.org/wiki/C%2B%2B)
   <img width="2">
@@ -99,6 +99,8 @@ and like to read in-depth about computers and networking in my free time.
   [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt = "JavaScript" height = 40px>](https://en.wikipedia.org/wiki/JavaScript)
   <img width="2">
   [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height=40px>](https://www.typescriptlang.org/)
+  <img width="2">
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height=35px />](https://go.dev/)
 
   [<img src = "https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/flutter.svg" alt = "Flutter" height = 40px>](https://flutter.dev/)
   <img width="2">
