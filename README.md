@@ -30,7 +30,7 @@ I'm a 21 year old Full Stack Developer, occasional Graphic Designer, Systems Pro
 I like to say that I am a full-stack developer, but I have most experience with frontend development using **React**. I also have experience
 in development with a wide variety of frameworks like **NextJS**, **Django**, **Angular**, **Spring**, **Flask**, and **Express**.
 
-I'm a versatile programmer and can pick up and learn any framework in a short span of time. I have an interest in low-level programming
+I'm a versatile programmer and can pick up and learn any language / framework in a short span of time. I have an interest in low-level programming
 and like to read in-depth about computers and networking in my free time.
 
 <!-- ====================== PROJECTS ====================== -->
