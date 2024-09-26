@@ -60,7 +60,7 @@ and like to read in-depth about computers and networking in my free time.
 
 ### C
 
-- [HyperBloom](https://github.com/shxntanu/hyperbloom): High Concurrency Bloom Filter implementations in C.
+- [hyperbloom](https://github.com/shxntanu/hyperbloom): High Concurrency Bloom Filter implementations in C.
 - [tinySQL](https://github.com/shxntanu/tinysql): Writing SQLite from scratch in C.
 - [HTTP Server](https://github.com/shxntanu/http-server-c): HTTP Server that accepts GET and POST Requests using Sockets and network protocols, made from scratch in C.
 - [Arduino Scripts for locomotion using a PS4 controller](https://github.com/shxntanu/escalade-iitg-23)
