@@ -109,6 +109,8 @@ and like to read in-depth about computers and networking in my free time.
   <img width="2">
   [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height = 40px>](https://react.dev)
   <img width="2">
+  [<img src = "https://streamlit.io/images/brand/streamlit-mark-color.png" height = 40px>](https://react.dev)
+  <img width="2">
   [<img src = "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height = 40px>](https://redux.js.org/)
   [<img src = "https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" height = 40px>](https://github.com/pmndrs/zustand)
   <img width="2">
