@@ -50,7 +50,7 @@ and like to read in-depth about computers and networking in my free time.
 ### Backend
 
 - [Email Classifier](https://github.com/shxntanu/email-classifier): Email Classification and Rapid Automatic Re-routing with the power of LLMs and Distributed Task Queues. ( **🏆 Winner at Barclays Hack-O-Hire 2024** )
-- [Compliance Helper](https://github.com/shxntanu/compliance-helper): Parse and understand compliance standards documents extremely fast.
+- [Compliance Helper](https://github.com/shxntanu/compliance-helper): Parse and understand compliance standards documents extremely fast. Built for BMC Software as a part of a hackathon.
 - [Minima-List](https://github.com/shxntanu/minima-list-ML): Get music recommendations based on the song that's currently occupying your mind.
 - [PageTalk Backend - Express MongoDB](https://github.com/PageTalk/Backend-MongoDB): Backend made in Express.js, using Docker for containerisation, JWT and Bcrypt for Authentication, and MongoDB Atlas as a database, that interfaces with a LLaMa2 LLM, all in TypeScript. 
 
