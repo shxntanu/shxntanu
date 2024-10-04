@@ -40,6 +40,7 @@ and like to read in-depth about computers and networking in my free time.
 ### Web
 
 - [PageTalk](https://github.com/shxntanu/PageTalk): Ask Questions, gain summaries and take notes from any Document using the power of LLMs!
+- [IDP](https://idp-sap.vercel.app): An E2E SaaS Product that simplifies the process of invoice and PO management, targeted at the B2B industry.
 - [Solar Intelligence](https://github.com/shxntanu/solar-intelligence): Comprehensive Solar Data visualisation Platform ( **🏆 Winner at COEP MindSpark 2023** )
 - [Pfi-Soc Club Website](https://pfisoc.com): Built the website for newly founded club, all in NextJS using TypeScript.
 - [Gharam Masala](https://github.com/shxntanu/Gharam_Masala): Website for ordering home-cooked food. Made the front end as a part of Project Based Learning in First Year.
