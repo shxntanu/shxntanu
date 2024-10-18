@@ -84,6 +84,11 @@ and like to read in-depth about computers and networking in my free time.
 
 <p>&nbsp;</p> -->
 
+## 🏃🏻 Open-source Contributions
+
+- [@brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
+- [@tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+
 ## 🔧 Languages, Frameworks and Tools
 
 <!-- <div align="center"> -->
@@ -175,11 +180,6 @@ and like to read in-depth about computers and networking in my free time.
   
   <!-- <img src="https://github.com/shxntanu/shxntanu/blob/1ea27b23be693057d970371e005e75046a677969/assets/lc.png"> 
    <div align="center"> -->
-
-## Open-source Contributions
-
-- [@brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
-- [@tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 
 ## 📮 Let's Connect
 
