@@ -88,6 +88,7 @@ and like to read in-depth about computers and networking in my free time.
 
 - [@brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [@tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+- [@typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)
 
 ## 🔧 Languages, Frameworks and Tools
 
