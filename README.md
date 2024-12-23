@@ -33,6 +33,10 @@ in development with a wide variety of frameworks like **NextJS**, **Django**, **
 I'm a versatile programmer and can pick up and learn any language / framework in a short span of time. I have an interest in low-level programming
 and like to read in-depth about computers and networking in my free time.
 
+## 🕵️‍♂️ What I'm currently working on?
+
+I've recently been intrigued by Generative AI. I'm exploring GenAI while building my own little Python package [`lesa`](https://github.com/shxntanu/lesa).
+
 <!-- ====================== PROJECTS ====================== -->
 
 ## ⚡️ Projects
@@ -48,10 +52,14 @@ and like to read in-depth about computers and networking in my free time.
 
 ### Backend
 
-- [Email Classifier](https://github.com/shxntanu/email-classifier): Email Classification and Rapid Automatic Re-routing with the power of LLMs and Distributed Task Queues. ( **🏆 Winner at Barclays Hack-O-Hire 2024** )
 - [Compliance Helper](https://github.com/shxntanu/compliance-helper): Parse and understand compliance standards documents extremely fast. Built for BMC Software as a part of a hackathon.
 - [Minima-List](https://github.com/shxntanu/minima-list-ML): Get music recommendations based on the song that's currently occupying your mind.
-- [PageTalk Backend - Express MongoDB](https://github.com/PageTalk/Backend-MongoDB): Backend made in Express.js, using Docker for containerisation, JWT and Bcrypt for Authentication, and MongoDB Atlas as a database, that interfaces with a LLaMa2 LLM, all in TypeScript. 
+- [PageTalk Backend - Express MongoDB](https://github.com/PageTalk/Backend-MongoDB): Backend made in Express.js, using Docker for containerisation, JWT and Bcrypt for Authentication, and MongoDB Atlas as a database, that interfaces with a LLaMa2 LLM, all in TypeScript.
+
+### Generative AI
+
+- [Email Classifier](https://github.com/shxntanu/email-classifier): Email Classification and Rapid Automatic Re-routing with the power of LLMs and Distributed Task Queues. ( **🏆 Winner at Barclays Hack-O-Hire 2024** )
+- [Lesa](https://github.com/shxntanu/lesa): Building my own Python package which turns your terminal into a file interpreter.
 
 ### Flutter
 
