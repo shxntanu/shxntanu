@@ -45,6 +45,7 @@ I've recently been intrigued by Generative AI. I'm exploring GenAI while buildin
 
 - [PageTalk](https://github.com/shxntanu/PageTalk): Ask Questions, gain summaries and take notes from any Document using the power of LLMs!
 - [Solar Intelligence](https://github.com/shxntanu/solar-intelligence): Comprehensive Solar Data visualisation Platform ( **🏆 Winner at COEP MindSpark 2023** )
+- [AIvelnirary](https://github.com/TechyMT/aivelnirary): AI-Powered Travel Itinerary creator that improves trip planning by generating personalized itineraries tailored to user preferences.
 - [Pfi-Soc Club Website](https://pfisoc.com): Built the website for newly founded club, all in NextJS using TypeScript.
 - [Gharam Masala](https://github.com/shxntanu/Gharam_Masala): Website for ordering home-cooked food. Made the front end as a part of Project Based Learning in First Year.
 - [Portfolio Website](https://github.com/shxntanu/portfolio): Personal portfolio website.
