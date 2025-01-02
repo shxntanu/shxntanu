@@ -33,7 +33,7 @@ in development with a wide variety of frameworks like **NextJS**, **Django**, **
 I'm a versatile programmer and can pick up and learn any language / framework in a short span of time. I have an interest in low-level programming
 and like to read in-depth about computers and networking in my free time.
 
-## 🕵️‍♂️ What I'm currently working on?
+## 🕵️‍♂️ Current
 
 I've recently been intrigued by Generative AI. I'm exploring GenAI while building my own little Python package [`lesa`](https://github.com/shxntanu/lesa).
 
