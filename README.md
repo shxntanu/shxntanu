@@ -41,7 +41,7 @@ I've recently been intrigued by Generative AI. I'm exploring GenAI while buildin
 
 ## ⚡️ Projects
 
-### Web
+<h3><img height="38" src="https://cdn.simpleicons.org/react" alt="Web" /> Web</h3>
 
 - [PageTalk](https://github.com/shxntanu/PageTalk): Ask Questions, gain summaries and take notes from any Document using the power of LLMs!
 - [Solar Intelligence](https://github.com/shxntanu/solar-intelligence): Comprehensive Solar Data visualisation Platform ( **🏆 Winner at COEP MindSpark 2023** )
@@ -51,36 +51,36 @@ I've recently been intrigued by Generative AI. I'm exploring GenAI while buildin
 - [Portfolio Website](https://github.com/shxntanu/portfolio): Personal portfolio website.
 - [usePopcorn](https://usepopcorn-but-better.netlify.app/): Movie List app in React.
 
-### Backend
+<h3><img height="38" src="https://cdn.simpleicons.org/amazondynamodb" alt="Backend" /> Backend</h3>
 
 - [Compliance Helper](https://github.com/shxntanu/compliance-helper): Parse and understand compliance standards documents extremely fast. Built for BMC Software as a part of a hackathon.
 - [Minima-List](https://github.com/shxntanu/minima-list-ML): Get music recommendations based on the song that's currently occupying your mind.
 - [PageTalk Backend - Express MongoDB](https://github.com/PageTalk/Backend-MongoDB): Backend made in Express.js, using Docker for containerisation, JWT and Bcrypt for Authentication, and MongoDB Atlas as a database, that interfaces with a LLaMa2 LLM, all in TypeScript.
 
-### Generative AI
+<h3><img height="38" src="https://cdn.simpleicons.org/ollama/white" alt="Ollama Logo" /> Generative AI</h3>
 
 - [Email Classifier](https://github.com/shxntanu/email-classifier): Email Classification and Rapid Automatic Re-routing with the power of LLMs and Distributed Task Queues. ( **🏆 Winner at Barclays Hack-O-Hire 2024** )
 - [Lesa](https://github.com/shxntanu/lesa): Building my own Python package which turns your terminal into a file interpreter.
 
-### Flutter
+<h3><img height="38" src="https://cdn.simpleicons.org/flutter" alt="Flutter Logo" /> Flutter</h3>
 
 - [aerocode](https://github.com/shxntanu/aerocode): Code sharing web app without any sign-ups required. Made in Flutter!
 - [frugalista](https://github.com/shxntanu/frugalista): A simple and minimalistic expense manager app
 - [AutoInsight](https://github.com/shxntanu/AutoInsight): RaspberryPi-based Vehicle and Crash Detection system, powered by Flutter, as a part of Project-based learning.
 
-### C
+<h3><img height="38" src="https://cdn.simpleicons.org/C" alt="C" /> C Language</h3>
 
 - [hyperbloom](https://github.com/shxntanu/hyperbloom): High Concurrency Bloom Filter implementations in C.
 - [tinySQL](https://github.com/shxntanu/tinysql): Writing SQLite from scratch in C.
 - [HTTP Server](https://github.com/shxntanu/http-server-c): HTTP Server that accepts GET and POST Requests using Sockets and network protocols, made from scratch in C.
 - [Arduino Scripts for locomotion using a PS4 controller](https://github.com/shxntanu/escalade-iitg-23)
 
-### Rust
+<h3><img height="38" src="https://cdn.simpleicons.org/rust/CE412B" alt="Rust Logo" /> Rust</h3>
 
 - [Word Counter CLI in Rust](https://github.com/shxntanu/wc-rust)
 - [JSON Parser in Rust](https://github.com/shxntanu/json-parser-rust)
 
-### Game Dev
+<h3><img height="38" src="https://cdn.simpleicons.org/unrealengine/white" alt="Unreal Logo" /> Game Dev</h3>
 
 - [AirHockey](https://github.com/shxntanu/air-hockey-pygame): Air Hockey game made purely in Python.
 
@@ -169,15 +169,15 @@ I've recently been intrigued by Generative AI. I'm exploring GenAI while buildin
   <img width="2">
   [<img src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" alt="Final Cut Pro" height=40px>](https://www.apple.com/in/final-cut-pro/)
   <img width="2">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo">](https://developer.android.com/studio)
-  <img width="2">
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code">](https://code.visualstudio.com/)
   <img width="2">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma">](https://www.figma.com/)
-  <img width="2">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo">](https://developer.apple.com/xcode/)
-  <img width="2">
-  <img src="http://content.arduino.cc/brand/arduino-color.svg" height=40px>
+  <!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo">](https://developer.android.com/studio)
+  <img width="2"> -->
+  <!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma">](https://www.figma.com/)
+  <img width="2"> -->
+  <!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo">](https://developer.apple.com/xcode/)
+  <img width="2"> -->
+  <!-- <img src="http://content.arduino.cc/brand/arduino-color.svg" height=40px> -->
 
 <!-- Miscellaneous -->
 
