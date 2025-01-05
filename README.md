@@ -35,7 +35,7 @@ and like to read in-depth about computers and networking in my free time.
 
 ## 🕵️‍♂️ Current
 
-I've recently been intrigued by Generative AI. I'm exploring GenAI while building my own little Python package [`lesa`](https://github.com/shxntanu/lesa).
+I've recently been intrigued by Generative AI and exploring the same while building my own little Python package [`lesa`](https://github.com/shxntanu/lesa).
 
 <!-- ====================== PROJECTS ====================== -->
 
