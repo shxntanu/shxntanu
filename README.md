@@ -30,7 +30,7 @@ I'm a 21 year old Full Stack Developer, occasional Graphic Designer, Systems Pro
 I like to say that I am a full-stack developer, but I have had most experience with frontend development using **React**. I also have experience
 in development with a wide variety of frameworks like **NextJS**, **Django**, **Angular**, **Spring**, **Flask**, and **Express**. 
 
-Lately, I've been learning about various backend technologies and exploring Generative AI, while also working as a Software Developer at Arista Networks.
+Lately, I've been learning about various backend technologies and exploring Generative AI.
 
 I'm a versatile programmer and can pick up and learn any language / framework in a short span of time. I have a keen interest in low-level programming
 and like to read in-depth about computers and networking in my free time.
