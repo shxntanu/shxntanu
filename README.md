@@ -62,7 +62,7 @@ I've recently been intrigued by Generative AI and exploring the same while build
 <h3><img height="38" src="https://cdn.simpleicons.org/ollama/white" alt="Ollama Logo" /> Generative AI</h3>
 
 - [Email Classifier](https://github.com/shxntanu/email-classifier): Email Classification and Rapid Automatic Re-routing with the power of LLMs and Distributed Task Queues. ( **🏆 Winner at Barclays Hack-O-Hire 2024** )
-- [Lesa](https://github.com/shxntanu/lesa): Building my own Python package which turns your terminal into a file interpreter.
+- [Lesa](https://github.com/shxntanu/lesa) ![PyPI Downloads](https://static.pepy.tech/badge/lesa): Building my own Python package which turns your terminal into a file interpreter.
 
 <h3><img height="38" src="https://cdn.simpleicons.org/flutter" alt="Flutter Logo" /> Flutter</h3>
 
