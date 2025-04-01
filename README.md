@@ -27,8 +27,8 @@ I'm a 21 year old Full Stack Developer, occasional Graphic Designer, Systems Pro
 
 ## 🙋🏻‍♂️ About Me
 
-I like to say that I am a full-stack developer, but I have had most experience in collegewith frontend development using **React**. I also have experience
-in development with a wide variety of frameworks like **NextJS**, **Django**, **Angular**, **Spring**, **Flask**, and **Express**. I've also had a lot of experience in backend development in Go.
+I like to say that I am a full-stack developer, but I have had most experience in college with frontend development using **React**. I also have experience
+in development with a wide variety of frameworks like **NextJS**, **Django**, **Angular**, **Spring**, **Flask**, and **Express** & Backend development in the Go runtime.
 
 Lately, I've been learning about various backend technologies and exploring Generative AI.
 
