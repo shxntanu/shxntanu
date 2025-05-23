@@ -11,7 +11,7 @@
 
 I'm a 21 year old Full Stack Developer, occasional Graphic Designer, Systems Programming Enthusiast and also an Engineering Student.
 
-> [Portfolio](https://shxntanu.tech/)
+> [Portfolio](https://shxntanu.vercel.app/)
 
 <!-- - Full Stack Web Developer, Flutter Developer, Graphic Designer, Weeb, and a lot more.
 - Likes to move pixels in Canva (Illustrator, Photoshop and Figma as well btw).
