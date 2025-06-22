@@ -9,7 +9,7 @@
 
 ### Hey, I'm Shantanu 👋🏼
 
-I'm a 22 year old Full Stack Developer, occasional Graphic Designer, Systems Programming Enthusiast and also an Engineering Student.
+I'm a 22 year old Full Stack Developer, occasional Graphic Designer, Systems Programming Enthusiast and also a Software Engineer.
 
 > [Portfolio](https://shxntanu.vercel.app/)
 
