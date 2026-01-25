@@ -5,7 +5,7 @@
 <img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 <h3 align="center">Full Stack Web Developer, occasional Graphic Designer, Systems Programming Enthusiast and also an Engineering Student.</h3> -->
 
-<img style="width:100%;height:3px;" src="./assets/bar.gif" />
+<img style="width:100%;height:3px;" src="https://github.com/NuroDev/NuroDev/blob/6f0d0a8cff5c44aea2d4f24d949f692ee54002de/bar.gif" />
 
 <div align="center">
 
