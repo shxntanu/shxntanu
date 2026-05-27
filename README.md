@@ -13,7 +13,7 @@
 
 </div>
 
-My name is Shantanu Wable (aka `shxntanu`) a 22 year old Full Stack Developer, occasional Graphic Designer, Low-level Programming Enthusiast and also a Software Engineer at Arista Networks.
+My name is Shantanu Wable (aka `shxntanu`) a 23 year old Full Stack Developer, occasional Graphic Designer, Low-level Programming Enthusiast and also a Software Engineer at Arista Networks.
 
 > [Portfolio](https://shxntanu.vercel.app/)
 > | [_shantanuwable2003@gmail.com_](mailto:shantanuwable2003@gmail.com)
